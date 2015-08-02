@@ -1,5 +1,5 @@
-#include "ds18x20/ds18x20.h"
-#include "ds18x20/onewire.h"
+#include "ds18x20.h"
+#include "onewire.h"
 
 uint8_t sensors[80];
 
